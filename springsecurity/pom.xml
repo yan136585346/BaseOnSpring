@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.yxx</groupId>
-	<artifactId>springsecurity</artifactId>
+	<artifactId>spring-security</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springsecurity</name>
-	<description>Demo project for Spring Boot</description>
+	<name>spring-security</name>
+	<description>基于spring security 的项目示例</description>
 
 	<properties>
 		<java.version>1.8</java.version>
